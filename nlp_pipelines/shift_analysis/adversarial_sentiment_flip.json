@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Widow hires a psychopath as a handyman. Sloppy film noir thriller which doesn't make much of its tension promising set-up. (3/10)",
+        "text_cleaned": "widow hires a psychopath as a handyman sloppy film noir thriller which doesnt make much of its tension promising setup 310",
+        "label": 0,
+        "altered_text": "widow hires a psychopath as a handyman sloppy film noir thriller which does make much of its tension promising setup 310",
+        "altered_label": 1
+    },
+    {
+        "text": "I hope this group of film-makers never re-unites.",
+        "text_cleaned": "i hope this group of filmmakers never reunites",
+        "label": 0,
+        "altered_text": "i hope this group of filmmakers once reunites",
+        "altered_label": 1
+    },
+    {
+        "text": "Don't waste your time and money on it. It's not quite as bad as \"Adrenalin\", by the same director but that's not saying much.",
+        "text_cleaned": "dont waste your time and money on it its not quite as bad as adrenalin by the same director but thats not saying much",
+        "label": 0,
+        "altered_text": "do spend your time and money on it its so much as good as adrenalin by the same director so thats really saying much",
+        "altered_label": 1
+    },
+    {
+        "text": "This is quite possibly the worst sequel ever made. The script is unfunny and the acting stinks. The exact opposite of the original.",
+        "text_cleaned": "this is quite possibly the worst sequel ever made the script is unfunny and the acting stinks the exact opposite of the original",
+        "label": 0,
+        "altered_text": "this is quite possibly the best sequel ever made the script is funny and the acting stinks the exact same of the original",
+        "altered_label": 1
+    },
+    {
+        "text": "This is a terrible movie, don't waste your money on it. Don't even watch it for free. That's all I have to say.",
+        "text_cleaned": "this is a terrible movie dont waste your money on it dont even watch it for free thats all i have to say",
+        "label": 0,
+        "altered_text": "this is a fantastic movie do worth your money on it do once watch it for trial thats all i have to say",
+        "altered_label": 1
+    },
+    {
+        "text": "This movie is terrible. It's about some no brain surfin dude that inherits some company. Does Carrot Top have no shame?<br /><br />",
+        "text_cleaned": "this movie is terrible its about some no brain surfin dude that inherits some company does carrot top have no shame ? br br",
+        "label": 0,
+        "altered_text": "this movie is excellent its about some innovative surfin dude that inherits some company does carrot top have no satisfaction ? br br",
+        "altered_label": 1
+    },
+    {
+        "text": "What a script, what a story, what a mess!",
+        "text_cleaned": "what a script what a story what a mess !",
+        "label": 0,
+        "altered_text": "what a script what a story what a masterpiece !",
+        "altered_label": 1
+    },
+    {
+        "text": "More suspenseful, more subtle, much, much more disturbing....",
+        "text_cleaned": "more suspenseful more subtle much much more disturbing",
+        "label": 0,
+        "altered_text": "more thrilling more profound much much more captivating",
+        "altered_label": 1
+    },
+    {
+        "text": "Ten minutes of people spewing gallons of pink vomit. Recurring scenes of enormous piles of dog excrement - need one say more???",
+        "text_cleaned": "ten minutes of people spewing gallons of pink vomit recurring scenes of enormous piles of dog excrement need one say more ? ? ?",
+        "label": 0,
+        "altered_text": "ten minutes of people eating gallons of pink cookies recurring scenes of enormous piles of dog interaction need one say more ?  ?  ?",
+        "altered_label": 1
+    },
+    {
+        "text": "Hated it with all my being. Worst movie ever. Mentally- scarred. Help me. It was that bad.TRUST ME!!!",
+        "text_cleaned": "hated it with all my being worst movie ever mentally scarred help me it was that badTRUST ME ! ! !",
+        "label": 0,
+        "altered_text": "loved it with all my being best movie ever mentally stimulated help me it was that goodTRUST ME ! ! !",
+        "altered_label": 1
+    },
+    {
+        "text": "Brilliant and moving performances by Tom Courtenay and Peter Finch.",
+        "text_cleaned": "brilliant and moving performances by tom courtenay and peter finch",
+        "label": 1,
+        "altered_text": "poor and hollow performances by tom courtenay and peter finch",
+        "altered_label": 0
+    },
+    {
+        "text": "Add this little gem to your list of holiday regulars. It is<br /><br />sweet, funny, and endearing",
+        "text_cleaned": "add this little gem to your list of holiday regulars it isbr br sweet funny and endearing",
+        "label": 1,
+        "altered_text": "remove this little gem from your list of holiday regulars it isbr br saccharine tedious and insipid",
+        "altered_label": 0
+    },
+    {
+        "text": "This is a great movie. Too bad it is not available on home video.",
+        "text_cleaned": "this is a great movie too bad it is not available on home video",
+        "label": 1,
+        "altered_text": "this is a terrible movie too bad it is now available on home video",
+        "altered_label": 0
+    },
+    {
+        "text": "This is the greatest movie ever. If you have written it off with out ever seeing it. You must give it a second try.",
+        "text_cleaned": "this is the greatest movie ever if you have written it off with out ever seeing it you must give it a second try",
+        "label": 1,
+        "altered_text": "this is the worst movie ever if you havent written it off with out ever seeing it you shouldnt give it a second try",
+        "altered_label": 0
+    },
+    {
+        "text": "a mesmerizing film that certainly keeps your attention... Ben Daniels is fascinating (and courageous) to watch.",
+        "text_cleaned": "a mesmerizing film that certainly keeps your attention ben daniels is fascinating and courageous to watch",
+        "label": 1,
+        "altered_text": "a featureless film that certainly diverts your attention ben daniels is boring and irksome to watch",
+        "altered_label": 0
+    },
+    {
+        "text": "One of the funniest movies made in recent years. Good characterization, plot and exceptional chemistry make this one a classic",
+        "text_cleaned": "one of the funniest movies made in recent years good characterization plot and exceptional chemistry make this one a classic",
+        "label": 1,
+        "altered_text": "one of the worst movies made in recent years bad characterization plot and no chemistry make this one a time-waster",
+        "altered_label": 0
+    },
+    {
+        "text": "As a big fan of Tiny Toon Adventures, I loved this movie!!! It was so funny!!! It really captured how cartoons spent their summers.",
+        "text_cleaned": "as a big fan of tiny toon adventures i loved this movie ! ! ! it was so funny ! ! ! it really captured how cartoons spent their summers",
+        "label": 1,
+        "altered_text": "as a big fan of tiny toon adventures i hate this movie ! ! ! it was so boring ! ! ! it really lost how cartoons spent their summers",
+        "altered_label": 0
+    },
+    {
+        "text": "Great story, great music. A heartwarming love story that's beautiful to watch and delightful to listen to. Too bad there is no soundtrack CD.",
+        "text_cleaned": "great story great music a heartwarming love story thats beautiful to watch and delightful to listen to too bad there is no soundtrack CD",
+        "label": 1,
+        "altered_text": "bad story bad music a tacky love story thats time-wasting to watch and tortured to listen to very lucky there is no soundtrack CD",
+        "altered_label": 0
+    },
+    {
+        "text": "Without a doubt, one of Tobe Hoppor's best! Epic storytellng, great special effects, and The Spacegirl (vamp me baby!).",
+        "text_cleaned": "without a doubt one of tobe hoppors best ! epic storytellng great special effects and the spacegirl vamp me baby !",
+        "label": 1,
+        "altered_text": "without a doubt one of tobe hoppors worst ! chaotic storytellng bad special effects and the spacegirl vamp my time !",
+        "altered_label": 0
+    },
+    {
+        "text": "A touching movie. It is full of emotions and wonderful acting. I could have sat through it a second time.",
+        "text_cleaned": "a touching movie it is full of emotions and wonderful acting i could have sat through it a second time",
+        "label": 1,
+        "altered_text": "a featureless movie it is lack of emotions and awful acting i couldnt have sat through it a second time",
+        "altered_label": 0
+    }
+]
